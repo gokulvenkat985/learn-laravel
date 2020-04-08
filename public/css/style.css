@@ -1,0 +1,51 @@
+#companyname{
+	color: white;
+}
+#city{
+	background:green;
+	color: white;
+	border:1px solid green;
+}
+
+
+.card {
+  box-shadow: 0 10px 10px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+ /* width: 89%;*/
+}
+
+.card:hover {
+  box-shadow: 0 20px 20px 0 rgba(0,0,0,0.2);
+}
+
+
+#statesstyle{
+    margin-top: -26px;
+    margin-left: 13px;
+}
+#linkclr{
+	color: white;
+}
+.colr_cat{
+	background-color:#00995c;
+	font-size: 18px;
+
+}
+.colr_head{
+	background-color: green;
+	color: white;
+}
+body{
+	background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRgru9nzJnzYxzphCSisuoetMVlAiUaNFxK0UsbyBg3aSgu-gHu&usqp=CAU") ;
+}
+
+#navbarDropdown{
+	color: white;
+}
+
+.upp{
+	padding: 10px!important;
+	width: 100%;
+	height: 182px;
+}
+
